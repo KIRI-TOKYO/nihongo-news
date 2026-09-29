@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29",
+ "updated": "2026-09-30",
  "articles": [
   {
    "id": "toonippo-20260927",
@@ -158,6 +158,17 @@
    "added": "2026-09-20"
   },
   {
+   "id": "tochigi-pref-20260706",
+   "date": "2026-07-06",
+   "added": "2026-09-30",
+   "theme": "community",
+   "kind": "講座",
+   "source": "栃木県",
+   "title": "「日本語学習支援研修会」参加者募集",
+   "url": "https://www.pref.tochigi.lg.jp/c01/nihonngokensyu2026.html",
+   "summary": "栃木県が地域の日本語教室で外国人を支える人向けの研修会を開き、初心者コースは10月17日から11月21日の土曜に大田原市生涯学習センターで全4回行う。参加無料・先着40人程度で、申込は栃木県国際交流協会へ。"
+  },
+  {
    "id": "townnews-yamato-20260703",
    "date": "2026-07-03",
    "theme": "community",
@@ -229,6 +240,7 @@
   "www.toonippo.co.jp": "ok",
   "www.rn-ac.jp": "ok",
   "www.pref.gunma.jp": "ok",
-  "www.ia-ibaraki.or.jp": "ok"
+  "www.ia-ibaraki.or.jp": "ok",
+  "www.pref.tochigi.lg.jp": "ok"
  }
 }
