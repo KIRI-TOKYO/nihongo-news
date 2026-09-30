@@ -1,6 +1,17 @@
 {
- "updated": "2026-09-30",
+ "updated": "2026-10-01",
  "articles": [
+  {
+   "id": "pref-kagawa-20260930",
+   "date": "2026-09-30",
+   "added": "2026-10-01",
+   "theme": "community",
+   "kind": "講座",
+   "source": "香川県(香川県国際交流協会)",
+   "title": "【受講者募集】アイパル香川の講座一覧（2026年度）",
+   "url": "https://www.pref.kagawa.lg.jp/kokusai/event/topics/ipalkagawa2026.html",
+   "summary": "香川県国際交流協会がアイパル香川で後期の日本語講座を開き、木曜クラスは10月15日から、土曜クラスは10月17日から各17回、入門から5段階のレベルで学べる。対象は小学5年生以上で受講料は5,500円、申込は9月10日から受け付けている。"
+  },
   {
    "id": "toonippo-20260927",
    "date": "2026-09-27",
@@ -241,6 +252,9 @@
   "www.rn-ac.jp": "ok",
   "www.pref.gunma.jp": "ok",
   "www.ia-ibaraki.or.jp": "ok",
-  "www.pref.tochigi.lg.jp": "ok"
+  "www.pref.tochigi.lg.jp": "ok",
+  "www.pref.kagawa.lg.jp": "ok",
+  "www.pref.miyagi.jp": "ng",
+  "www.pref.nagano.lg.jp": "ng"
  }
 }
