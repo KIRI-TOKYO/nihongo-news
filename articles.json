@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-01",
+ "updated": "2026-10-02",
  "articles": [
+  {
+   "id": "kyobun-20261001",
+   "date": "2026-10-01",
+   "added": "2026-10-02",
+   "theme": "school",
+   "kind": "ニュース",
+   "source": "教育新聞",
+   "title": "教員の経験に左右されない日本語授業の新モデル　荒川九中・夜間学級",
+   "url": "https://kyobun.co.jp/article/2026100101",
+   "summary": "東京都荒川区立第九中学校の夜間学級が、教科書とICT教材、AIドリルを組み合わせた日本語授業のモデルを作った。日本語教育が専門でない教員でも一定の質で教えられることを目指している。"
+  },
   {
    "id": "pref-kagawa-20260930",
    "date": "2026-09-30",
@@ -11,6 +22,28 @@
    "title": "【受講者募集】アイパル香川の講座一覧（2026年度）",
    "url": "https://www.pref.kagawa.lg.jp/kokusai/event/topics/ipalkagawa2026.html",
    "summary": "香川県国際交流協会がアイパル香川で後期の日本語講座を開き、木曜クラスは10月15日から、土曜クラスは10月17日から各17回、入門から5段階のレベルで学べる。対象は小学5年生以上で受講料は5,500円、申込は9月10日から受け付けている。"
+  },
+  {
+   "id": "mext-20260930",
+   "date": "2026-09-30",
+   "added": "2026-10-02",
+   "theme": "teacher",
+   "kind": "公式発表",
+   "source": "文部科学省",
+   "title": "登録実践研修機関・登録日本語教員養成機関の登録結果（令和8年度1回目）について",
+   "url": "https://www.mext.go.jp/b_menu/shingi/daigaku/toushin/attach/1420729_00020.htm",
+   "summary": "令和8年度1回目の申請に対する登録結果が公表され、実践研修機関は23機関、日本語教員養成機関は27機関が新たに登録された。各機関の一覧はPDFと日本語教育機関認定法ポータルで確認できる。"
+  },
+  {
+   "id": "president-20260928",
+   "date": "2026-09-28",
+   "added": "2026-10-02",
+   "theme": "school",
+   "kind": "解説記事",
+   "source": "PRESIDENT Online",
+   "title": "オール1でも能力が低いワケではない…1年生の半数が外国ルーツという公立高校が展開する\"驚きの日本語授業\"",
+   "url": "https://president.jp/articles/-/119076",
+   "summary": "1年生の半数が外国ルーツという愛知県立衣台高校で、母語も活用しながら生徒の力を引き出す日本語授業を紹介する。愛知県は日本語指導が必要な児童生徒が全国最多で、県の教員配置の取り組みにも触れている。"
   },
   {
    "id": "toonippo-20260927",
@@ -45,6 +78,17 @@
    "title": "登録日本語教員養成・実践研修コース30分プチガイダンス 10月開催",
    "url": "https://www.rn-ac.jp/news/seminar/001583.html",
    "summary": "登録日本語教員の資格取得ルートや養成・実践研修コースの概要を30分で説明するオンラインのガイダンス。10月7日から28日まで平日昼と土曜午前に計6回開かれ、参加は無料。"
+  },
+  {
+   "id": "pref-yamanashi-20260925",
+   "date": "2026-09-25",
+   "added": "2026-10-02",
+   "theme": "teacher",
+   "kind": "イベント",
+   "source": "山梨県(山梨県国際交流協会)",
+   "title": "「第2回 やまなし日本語教師セミナー」(2026年10月31日)",
+   "url": "https://www.pref.yamanashi.jp/kokusai-tabunka/event/261031.html",
+   "summary": "山梨県国際交流協会が10月31日午後にオンラインで日本語教師セミナーを開き、地域日本語教室と日本語教師の役割をテーマにした講演がある。県内在住・在勤の登録日本語教員や資格を目指す人などが対象で、参加無料、申込は10月24日まで。"
   },
   {
    "id": "mextnote-20260918",
@@ -255,6 +299,9 @@
   "www.pref.tochigi.lg.jp": "ok",
   "www.pref.kagawa.lg.jp": "ok",
   "www.pref.miyagi.jp": "ng",
-  "www.pref.nagano.lg.jp": "ng"
+  "www.pref.nagano.lg.jp": "ng",
+  "kyobun.co.jp": "ok",
+  "president.jp": "ok",
+  "www.pref.yamanashi.jp": "ok"
  }
 }
