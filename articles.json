@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03",
+ "updated": "2026-10-04",
  "articles": [
   {
    "id": "kyobun-20261001",
@@ -23,6 +23,17 @@
    "title": "永住許可に関するガイドライン(令和8年10月1日改定)",
    "url": "https://www.moj.go.jp/isa/10_00279.html",
    "summary": "永住許可の審査で、申請時に一定水準の日本語能力があることを考慮要素とし、目安を「日本語教育の参照枠」のB1相当以上とした。令和9年4月1日以降の申請から適用され、高度人材や日本で6年以上教育を受けた人などは対象外となる。"
+  },
+  {
+   "id": "fukuyama-city-20261001",
+   "date": "2026-10-01",
+   "added": "2026-10-04",
+   "theme": "community",
+   "kind": "講座",
+   "source": "福山市",
+   "title": "日本語ボランティア養成講座「日本語ボランティアをはじめよう」",
+   "url": "https://www.city.fukuyama.hiroshima.jp/koho-detail02/koho-202610/410035.html",
+   "summary": "広島県福山市が10月25日に西部市民センターで、外国人住民を支える日本語ボランティアの養成講座を1日(10時〜16時)開く。参加無料・先着40人で、申込は10月20日まで。"
   },
   {
    "id": "pref-kagawa-20260930",
@@ -214,6 +225,17 @@
    "added": "2026-09-20"
   },
   {
+   "id": "konichiken-20260730",
+   "date": "2026-07-30",
+   "added": "2026-10-04",
+   "theme": "school",
+   "kind": "イベント",
+   "source": "子どもの日本語教育研究会",
+   "title": "子どもの日本語教育研究会2026研究会・大阪",
+   "url": "https://kodomo-no-nihongo.com/2026/07/1463/",
+   "summary": "子どもの日本語教育に関わる人が集まる研究会が11月15日に大阪教育大学天王寺キャンパスで開かれ、午前はポスター発表、午後は「つながりの中でことばを育む」をテーマにした講演と対話がある。参加費は1,000円で、一般参加の申込は10月初旬から受け付ける予定。"
+  },
+  {
    "id": "gakken-20260713",
    "date": "2026-07-13",
    "theme": "community",
@@ -314,6 +336,8 @@
   "www.pref.nagano.lg.jp": "ng",
   "kyobun.co.jp": "ok",
   "president.jp": "ok",
-  "www.pref.yamanashi.jp": "ok"
+  "www.pref.yamanashi.jp": "ok",
+  "www.city.fukuyama.hiroshima.jp": "ok",
+  "kodomo-no-nihongo.com": "ok"
  }
 }
