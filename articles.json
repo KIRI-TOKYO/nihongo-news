@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-04",
+ "updated": "2026-10-05",
  "articles": [
+  {
+   "id": "prtimes-hikarijs-20261003",
+   "date": "2026-10-03",
+   "added": "2026-10-05",
+   "theme": "school",
+   "kind": "イベント",
+   "source": "一般社団法人光JSみらい(PR TIMES)",
+   "title": "シリーズウェビナー『みらいにつながる日本語教育』最終回〔申し込み受付中〕",
+   "url": "https://prtimes.jp/main/html/rd/p/000000071.000109918.html",
+   "summary": "外国ルーツの子どもの日本語教育を考えるオンライン講座の最終回が10月25日夜にZoomで開かれ、日本語ゼロで来日し高校・大学進学を経て就職活動に臨んだブラジル出身の若者が経験を話す。参加無料でアーカイブ配信もあり、申込はPeatixで受け付けている。"
+  },
   {
    "id": "kyobun-20261001",
    "date": "2026-10-01",
@@ -338,6 +349,8 @@
   "president.jp": "ok",
   "www.pref.yamanashi.jp": "ok",
   "www.city.fukuyama.hiroshima.jp": "ok",
-  "kodomo-no-nihongo.com": "ok"
+  "kodomo-no-nihongo.com": "ok",
+  "prtimes.jp": "ok",
+  "www.city.yonago.lg.jp": "ok"
  }
 }
