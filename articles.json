@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-05",
+ "updated": "2026-10-06",
  "articles": [
+  {
+   "id": "pref-shiga-20260930",
+   "date": "2026-09-30",
+   "added": "2026-10-06",
+   "theme": "community",
+   "kind": "講座",
+   "source": "滋賀県",
+   "title": "令和8年度 日本語学習支援者セミナーの開催について",
+   "url": "https://www.pref.shiga.lg.jp/cc00/press-release/33831.html",
+   "summary": "滋賀県が外国人住民の日本語学習を支える人を育てる全3回のセミナーを開く。10月18日と11月7日は草津市、12月5日は別会場で、各回14時から16時、参加無料・定員各40人でGoogleフォームから申し込む。"
+  },
   {
    "id": "prtimes-hikarijs-20261003",
    "date": "2026-10-03",
@@ -351,6 +362,7 @@
   "www.city.fukuyama.hiroshima.jp": "ok",
   "kodomo-no-nihongo.com": "ok",
   "prtimes.jp": "ok",
-  "www.city.yonago.lg.jp": "ok"
+  "www.city.yonago.lg.jp": "ok",
+  "www.pref.shiga.lg.jp": "ok"
  }
 }
