@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07",
+ "updated": "2026-10-08",
  "articles": [
   {
    "id": "chunichi-20261006",
@@ -368,6 +368,17 @@
    "url": "https://nj.alc.co.jp/entry/20260323",
    "summary": "国家資格「登録日本語教員」の取り方を整理。試験ルートと養成機関ルートの違い、第2回試験の試験ルート合格率35.9%、勉強時間の目安を紹介。",
    "added": "2026-09-20"
+  },
+  {
+   "id": "tsunagari-20261008",
+   "date": "2026-09-07",
+   "added": "2026-10-08",
+   "theme": "community",
+   "kind": "イベント",
+   "source": "東京都つながり創生財団(東京都ボランティア活動推進協議会)",
+   "title": "10月27日（火）開催【ボランティア体験】日本語教室ボランティアに参加しよう！",
+   "url": "https://www.vln.metro.tokyo.lg.jp/join/info/865382",
+   "summary": "江戸川区松島コミュニティ会館で10月27日の夜に開かれる、日本語教室ボランティアの体験会の案内。15歳以上が対象で資格や経験は不要、申込は10月16日までで先着20名。"
   }
  ],
  "source_policy": {
@@ -401,6 +412,7 @@
   "www.pref.mie.lg.jp": "ok",
   "www.chunichi.co.jp": "ok",
   "chunichi.co.jp": "ok",
-  "news.yahoo.co.jp": "ok"
+  "news.yahoo.co.jp": "ok",
+  "www.vln.metro.tokyo.lg.jp": "ok"
  }
 }
