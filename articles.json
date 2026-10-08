@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08",
+ "updated": "2026-10-09",
  "articles": [
   {
    "id": "chunichi-20261006",
@@ -379,6 +379,29 @@
    "title": "10月27日（火）開催【ボランティア体験】日本語教室ボランティアに参加しよう！",
    "url": "https://www.vln.metro.tokyo.lg.jp/join/info/865382",
    "summary": "江戸川区松島コミュニティ会館で10月27日の夜に開かれる、日本語教室ボランティアの体験会の案内。15歳以上が対象で資格や経験は不要、申込は10月16日までで先着20名。"
+  },
+  {
+   "id": "kawagoe-20261008",
+   "date": "2026-10-08",
+   "added": "2026-10-09",
+   "theme": "community",
+   "kind": "自治体",
+   "source": "川越市",
+   "title": "日本語教室",
+   "url": "https://www.city.kawagoe.saitama.jp/kurashi/bunka/1003482/1003499/1003503.html",
+   "summary": "埼玉県川越市が、国際交流センターなどで開かれている日本語教室の一覧と、日本語を教えるボランティアの募集を案内している。月曜から土曜の各教室で、資格不要や未経験歓迎をうたう教室もあり、申込方法や期限はページに記載がない。"
+  },
+  {
+   "id": "isa-20260930",
+   "date": "2026-09-30",
+   "added": "2026-10-09",
+   "theme": "gov",
+   "care": true,
+   "kind": "公式発表",
+   "source": "出入国在留管理庁",
+   "title": "日本語能力水準「Ｂ１相当以上」の確認開始時期について",
+   "url": "https://www.moj.go.jp/isa/03_00198.html",
+   "summary": "特定技能2号などで求める日本語能力水準「B1相当以上」の確認を、令和9年4月1日以降の在留資格認定証明書交付申請から始めると示した。1号の自動車運送業・鉄道分野の一部もN3以上からB1相当以上に変わり、変更・更新申請の扱いは検討中で後日案内される。"
   }
  ],
  "source_policy": {
@@ -413,6 +436,7 @@
   "www.chunichi.co.jp": "ok",
   "chunichi.co.jp": "ok",
   "news.yahoo.co.jp": "ok",
-  "www.vln.metro.tokyo.lg.jp": "ok"
+  "www.vln.metro.tokyo.lg.jp": "ok",
+  "www.city.kawagoe.saitama.jp": "ok"
  }
 }
