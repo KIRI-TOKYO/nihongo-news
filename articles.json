@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15",
+ "updated": "2026-10-16",
  "articles": [
   {
    "id": "chunichi-20261006",
@@ -436,6 +436,18 @@
    "title": "JLPT（N4・N5）の受験申込みを考えている方、受入れ機関の皆様へ　日本語能力を測る試験として、JFT-Basicの活用をお勧めします！！",
    "url": "https://www.moj.go.jp/isa/content/001471906.pdf",
    "summary": "JLPTの令和8年12月試験が応募期間中に全レベル締切となったことを受け、出入国在留管理庁が案内を出した。特定技能1号や育成就労の申請でN4・N5を求められる人は、JFT-BasicのA2.2やA1の合格でも要件を満たせると説明している。"
+  },
+  {
+   "id": "isa-ikusei-qa-20261015",
+   "date": "2026-10-15",
+   "added": "2026-10-16",
+   "theme": "gov",
+   "kind": "公式発表",
+   "care": true,
+   "source": "出入国在留管理庁",
+   "title": "育成就労制度Q＆A",
+   "url": "https://www.moj.go.jp/isa/applications/faq/ikusei_qa_00002.html",
+   "summary": "出入国在留管理庁が「育成就労制度Q＆A」を10月15日に更新した。日本語能力の項目では、就労開始前にA1相当の試験合格または100時間以上の講習が必要とされ、3年間でA2.2相当の試験合格を目指す旨などが示されている。"
   }
  ],
  "source_policy": {
