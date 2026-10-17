@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "articles": [
   {
    "id": "chunichi-20261006",
@@ -459,6 +459,17 @@
    "title": "日本語指導が必要な児童生徒、静岡県内約10年で2倍に　学校や地域で学習支援“手探り”",
    "url": "https://news.yahoo.co.jp/articles/322ebb29feda15bf5389c6f5a6f45106f2254f07",
    "summary": "静岡県内で日本語指導が必要な児童生徒が、2014〜25年度に約2倍の5538人に増えたと伝える記事。指導人材の不足が課題で、初期日本語指導を行う自治体や有志の学習支援が広がっている。"
+  },
+  {
+   "id": "tcj-20261018",
+   "date": "2026-10-18",
+   "added": "2026-10-18",
+   "theme": "teacher",
+   "kind": "イベント",
+   "source": "TCJ日本語教師養成講座(株式会社TCJグローバル)",
+   "title": "特別講演会・講座ガイダンス(2026年11月開催分)",
+   "url": "https://xn--euts3n8lg6bk91h.jp.net/lectures/",
+   "summary": "日本語教師をめざす人向けに、11月3日から14日にかけて東京校・大阪校やオンラインで講座ガイダンスと特別講演会が開かれる。申込は開催前日15時までで、定員に達し次第終了する場合がある。"
   }
  ],
  "source_policy": {
@@ -494,6 +505,7 @@
   "chunichi.co.jp": "ok",
   "news.yahoo.co.jp": "ok",
   "www.vln.metro.tokyo.lg.jp": "ok",
-  "www.city.kawagoe.saitama.jp": "ok"
+  "www.city.kawagoe.saitama.jp": "ok",
+  "xn--euts3n8lg6bk91h.jp.net": "ok"
  }
 }
