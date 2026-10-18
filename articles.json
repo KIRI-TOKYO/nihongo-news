@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18",
+ "updated": "2026-10-19",
  "articles": [
   {
    "id": "chunichi-20261006",
@@ -470,6 +470,17 @@
    "title": "特別講演会・講座ガイダンス(2026年11月開催分)",
    "url": "https://xn--euts3n8lg6bk91h.jp.net/lectures/",
    "summary": "日本語教師をめざす人向けに、11月3日から14日にかけて東京校・大阪校やオンラインで講座ガイダンスと特別講演会が開かれる。申込は開催前日15時までで、定員に達し次第終了する場合がある。"
+  },
+  {
+   "id": "aichi-20261015",
+   "date": "2026-10-15",
+   "added": "2026-10-19",
+   "theme": "community",
+   "kind": "講座",
+   "source": "愛知県",
+   "title": "地域における初期日本語教育モデル事業 「はじめての日本語教室（第2期）」（知多市）の参加者を募集します！",
+   "url": "https://www.pref.aichi.jp/press-release/shokinihongo202602.html",
+   "summary": "日本語がほとんど分からない16歳以上の外国につながる人向けの無料教室で、知多市で11月29日から2027年1月31日まで毎週日曜に全8回開かれる。申込みはGoogleフォームで、期限は申込先に確認する。"
   }
  ],
  "source_policy": {
@@ -506,6 +517,7 @@
   "news.yahoo.co.jp": "ok",
   "www.vln.metro.tokyo.lg.jp": "ok",
   "www.city.kawagoe.saitama.jp": "ok",
-  "xn--euts3n8lg6bk91h.jp.net": "ok"
+  "xn--euts3n8lg6bk91h.jp.net": "ok",
+  "www.pref.aichi.jp": "ok"
  }
 }
