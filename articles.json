@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01",
+ "updated": "2026-11-02",
  "articles": [
   {
    "id": "reseed-20260902",
@@ -570,6 +570,28 @@
    "title": "【11／29～】日本語指導ボランティア養成講座（全６回）",
    "url": "https://dewakoku.or.jp/archives/info/%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%8C%87%E5%B0%8E%E3%83%9C%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2%E9%A4%8A%E6%88%90%E8%AC%9B%E5%BA%A7%EF%BC%88%E5%85%A8%EF%BC%96%E5%9B%9E%EF%BC%89-2",
    "summary": "山形県鶴岡市の出羽庄内国際村が、日本語指導ボランティアの養成講座を11月29日から12月20日までの日曜日に全6回開く。やさしい日本語や日本語指導の基礎、授業の実践練習を学ぶ。申込は電話(0235-25-3600)かチラシのQRコードで、期限の記載はない。"
+  },
+  {
+   "id": "mext-20261030",
+   "date": "2026-10-30",
+   "added": "2026-11-02",
+   "theme": "teacher",
+   "kind": "イベント",
+   "source": "文部科学省",
+   "title": "日本語教育大会・その他会議(令和8年度「文部科学省日本語教育大会」)",
+   "url": "https://www.mext.go.jp/a_menu/nihongo_kyoiku/mext_02916.html",
+   "summary": "登録日本語教員などの養成・研修をテーマにした大会が、12月11日(金)に文部科学省で開かれる。基調講演や養成機関の事例発表があり、事前申し込み制で、申込方法は後日案内される。"
+  },
+  {
+   "id": "nkg-20261102",
+   "date": "2026-11-02",
+   "added": "2026-11-02",
+   "theme": "school",
+   "kind": "講座",
+   "source": "日本語教育学会",
+   "title": "子どもの「書く」力をのばすために ～文化的言語的に多様な背景を持つ子どもたち(小学生～高校生)の「書く」力の評価と支援/指導～",
+   "url": "https://www.nkg.or.jp/kenkyukai/.assets/KK270130kodomono.pdf",
+   "summary": "来年1月30日と31日に横浜国立大学で開かれる、子どもの作文を評価し支援につなげる研修。参加費は1,000円、定員80名で、申込期限は1月25日(月)。"
   }
  ],
  "source_policy": {
@@ -609,6 +631,7 @@
   "xn--euts3n8lg6bk91h.jp.net": "ok",
   "www.pref.aichi.jp": "ok",
   "www.pref.saitama.lg.jp": "ok",
-  "dewakoku.or.jp": "ok"
+  "dewakoku.or.jp": "ok",
+  "www.nkg.or.jp": "ok"
  }
 }
