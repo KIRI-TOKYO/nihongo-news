@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07",
+ "updated": "2026-11-08",
  "articles": [
   {
    "id": "reseed-20260902",
@@ -647,6 +647,17 @@
    "title": "オンライン初期日本語教室（後期）",
    "url": "https://www.pref.aichi.jp/press-release/online-nihongo-2jukousha2026.html",
    "summary": "愛知県在住で16歳以上の日本語初学者を対象に、Zoomで開く無料の初期日本語教室の参加者募集。2026年12月1日から2027年1月26日までの毎週火曜日(全8回)で、申込期限は11月15日。"
+  },
+  {
+   "id": "jpf-tsunagu-20261103",
+   "date": "2026-11-03",
+   "added": "2026-11-08",
+   "theme": "teacher",
+   "kind": "イベント",
+   "source": "国際交流基金(つなぐ)",
+   "title": "【2026年11月29日開催】みんなの教材サイト「日本につながる子どもの実践」公開記念 オンライン研修会",
+   "url": "https://tsunagu.jpf.go.jp/2026/11/03/5542",
+   "summary": "国際交流基金の欧州5拠点が、日本につながる子どもの学びを支えるオンライン研修会を11月29日(日)にZoomで開く。申込期限は11月24日(火)で、事前課題の実践事例を読んでおく必要がある。"
   }
  ],
  "source_policy": {
@@ -687,6 +698,7 @@
   "www.pref.aichi.jp": "ok",
   "www.pref.saitama.lg.jp": "ok",
   "dewakoku.or.jp": "ok",
-  "www.nkg.or.jp": "ok"
+  "www.nkg.or.jp": "ok",
+  "tsunagu.jpf.go.jp": "ok"
  }
 }
