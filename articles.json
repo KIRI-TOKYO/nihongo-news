@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08",
+ "updated": "2026-11-09",
  "articles": [
   {
    "id": "reseed-20260902",
@@ -658,6 +658,17 @@
    "title": "【2026年11月29日開催】みんなの教材サイト「日本につながる子どもの実践」公開記念 オンライン研修会",
    "url": "https://tsunagu.jpf.go.jp/2026/11/03/5542",
    "summary": "国際交流基金の欧州5拠点が、日本につながる子どもの学びを支えるオンライン研修会を11月29日(日)にZoomで開く。申込期限は11月24日(火)で、事前課題の実践事例を読んでおく必要がある。"
+  },
+  {
+   "id": "mission-ehime-20261107",
+   "date": "2026-11-07",
+   "added": "2026-11-09",
+   "theme": "community",
+   "kind": "イベント",
+   "source": "松山福音センター(えひめ日本語教育人財ネット)",
+   "title": "Nihongo Cafe Nov. 10th Tue 7:00 PM 日本人ボランティア募集中",
+   "url": "https://mission.or.jp/2026/event/11763",
+   "summary": "愛媛県の松山福音センターが、外国人の日本語学習を手伝うボランティアを募集している。毎週火曜の午後7時から同センター4階で開かれ、事前の申し込みは要らない。"
   }
  ],
  "source_policy": {
@@ -699,6 +710,7 @@
   "www.pref.saitama.lg.jp": "ok",
   "dewakoku.or.jp": "ok",
   "www.nkg.or.jp": "ok",
-  "tsunagu.jpf.go.jp": "ok"
+  "tsunagu.jpf.go.jp": "ok",
+  "mission.or.jp": "ok"
  }
 }
