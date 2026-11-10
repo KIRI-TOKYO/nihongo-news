@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "articles": [
   {
    "id": "reseed-20260902",
@@ -680,6 +680,17 @@
    "title": "「やさしい日本語会話サロン」参加者募集！（10月・11月分）",
    "url": "https://www.city.koto.lg.jp/101034/conversationsalon.html",
    "summary": "区内の外国人と日本人が、ゆっくり簡単な言葉の「やさしい日本語」で交流するサロンの参加者募集です。11月は13日(金)に南砂区民館、15日(日)に江東区産業会館で開かれ、申込順で定員になり次第締め切られます。"
+  },
+  {
+   "id": "valuepress-gifu-20261109",
+   "date": "2026-11-09",
+   "added": "2026-11-11",
+   "theme": "community",
+   "kind": "講座",
+   "source": "アテイン株式会社(バリュープレス)",
+   "title": "岐阜県主催のオンライン日本語教室【会話クラス】の学習支援ボランティアの募集を開始",
+   "url": "https://www.value-press.com/pressrelease/383999",
+   "summary": "岐阜県から運営を受託した会社が、県在住の外国人と日本語で会話する「日本語パートナー」を募集している。授業は12月13日から2月21日までの毎週日曜午前で、申込期限は11月27日、日本語教育の知識は問わない。"
   }
  ],
  "source_policy": {
@@ -723,6 +734,7 @@
   "www.nkg.or.jp": "ok",
   "tsunagu.jpf.go.jp": "ok",
   "mission.or.jp": "ok",
-  "www.city.koto.lg.jp": "ok"
+  "www.city.koto.lg.jp": "ok",
+  "www.value-press.com": "ok"
  }
 }
