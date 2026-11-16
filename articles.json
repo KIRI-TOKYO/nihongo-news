@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "articles": [
   {
    "id": "alc-20260323",
@@ -758,6 +758,17 @@
    "title": "オンライン研修「子どもの「できた！」を引き出す～日本語学習活動のデザイン～」第２次案内",
    "url": "https://kodomo-no-nihongo.com/2026/10/1507/",
    "summary": "子どもに日本語を教える人向けのオンライン研修で、全6回。第1回は11月22日(日)で、申込締切は11月20日(金)。語彙や文型の学習活動、JSLカリキュラムなどを扱い、6回通しの申込は12月10日までです。"
+  },
+  {
+   "id": "jpf-20261117",
+   "date": "2026-11-17",
+   "added": "2026-11-17",
+   "theme": "teacher",
+   "kind": "イベント",
+   "source": "国際交流基金",
+   "title": "米国若手日本語教員(J-LEAP) 2027年度派遣公募説明会(オンライン)のご案内",
+   "url": "https://www.jpf.go.jp/j/about/recruit/j-leap_seminar2027.html",
+   "summary": "国際交流基金が、米国の学校へ若手日本語教員を派遣するJ-LEAPの2027年度公募説明会をZoomで開く。12月5日(土)10時30分から約90分で、経験者の体験談や質疑応答があり、申込は12月1日(火)17時まで。"
   }
  ],
  "source_policy": {
@@ -804,6 +815,7 @@
   "www.city.koto.lg.jp": "ok",
   "www.value-press.com": "ok",
   "www.tufs.ac.jp": "ok",
-  "activo.jp": "ok"
+  "activo.jp": "ok",
+  "www.jpf.go.jp": "ok"
  }
 }
