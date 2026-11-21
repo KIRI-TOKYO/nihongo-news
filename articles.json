@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "articles": [
   {
    "id": "alc-20260323",
@@ -814,6 +814,17 @@
    "title": "令和8年度日本語教員試験の再試験の実施について",
    "url": "https://www.mext.go.jp/b_menu/houdou/2026/mext_00014.html",
    "summary": "11月8日の日本語教員試験の当日、地震などによる公共交通機関の遅れで受験できなかった人を対象に、再試験を行うことを文部科学省が発表しました。会場などは対象者に直接知らされる予定です。"
+  },
+  {
+   "id": "brasilnippou-20261120",
+   "date": "2026-11-20",
+   "added": "2026-11-22",
+   "theme": "school",
+   "kind": "ニュース",
+   "source": "ブラジル日報",
+   "title": "滋賀県＝サンタナ学園が存続へクラファン ＝外国につながる子どもらの居場所守る＝創設から28年、運営費支援求める",
+   "url": "https://brasilnippou.com/ja/articles/261120-22colonia",
+   "summary": "滋賀県愛荘町のブラジル人学校サンタナ学園を運営するNPOが、学園の存続に向けたクラウドファンディングを実施中。創設から28年で在籍者は約40人に減り、運営費への支援を募っている(期限は2027年1月31日)。"
   }
  ],
  "source_policy": {
@@ -863,6 +874,8 @@
   "activo.jp": "ok",
   "www.jpf.go.jp": "ok",
   "www.hokkaido-np.co.jp": "ok",
-  "partner.jica.go.jp": "ok"
+  "partner.jica.go.jp": "ok",
+  "brasilnippou.com": "ok",
+  "edu.watch.impress.co.jp": "ok"
  }
 }
