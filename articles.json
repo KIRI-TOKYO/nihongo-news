@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "articles": [
   {
    "id": "alc-20260323",
@@ -849,6 +849,28 @@
    "title": "「育成就労」に募る不安　日本語講習の確保が課題　企業・団体「受け皿少ない」",
    "url": "https://www.hokkaido-np.co.jp/article/1412357/",
    "summary": "技能実習に代わる「育成就労」が来年4月に始まるまで半年を切るなか、就労前に必要な日本語講習の受講先が見つかりにくく、道内の企業や団体から「受け皿が少ない」との声が出ていると伝えている。背景には日本語教員の不足があるとされる。"
+  },
+  {
+   "id": "impress-20261124",
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "theme": "school",
+   "kind": "ニュース",
+   "source": "こどもとIT(インプレス)",
+   "title": "日本語指導が必要な児童生徒を支援、スタディポケットがAI同時通訳を提供へ",
+   "url": "https://edu.watch.impress.co.jp/docs/news/2158529.html",
+   "summary": "スタディポケット社が、日本語指導が必要な児童生徒や外国にルーツのある保護者と教員の会話を通訳する学校向けサービスを、2027年4月から正式に提供すると発表した。端末のブラウザ上で使え、料金は1校あたり年額5万円(税別)からとされている。"
+  },
+  {
+   "id": "valuepress-20261124",
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "theme": "community",
+   "kind": "イベント",
+   "source": "特定非営利活動法人 開発メディア(バリュープレス)",
+   "title": "【締切12/6】「日本語トークセッション」（5期）参加者募集！",
+   "url": "https://www.value-press.com/pressrelease/384951",
+   "summary": "ミャンマーやネパールなど途上国出身の日本語学習者と日本人が、オンラインで1対1の日本語会話を行う「日本語トークセッション」の5期参加者を募集している。期間は2026年12月13日から2027年3月21日まで、週1回40分で全10回、申込期限は12月6日。"
   }
  ],
  "source_policy": {
@@ -900,6 +922,10 @@
   "www.hokkaido-np.co.jp": "ok",
   "partner.jica.go.jp": "ok",
   "brasilnippou.com": "ok",
-  "edu.watch.impress.co.jp": "ok"
+  "edu.watch.impress.co.jp": "ok",
+  "ict-enews.net": "ok",
+  "isesaki-kokusai.jp": "ok",
+  "www.kyoiku.metro.tokyo.lg.jp": "ng",
+  "www.pref.ibaraki.jp": "ok"
  }
 }
